@@ -19,7 +19,7 @@ namespace week1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Second Change.");
+            MessageBox.Show("Nothing Change!");
         }
     }
 }
